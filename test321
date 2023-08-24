@@ -1,0 +1,29 @@
+// Peachy and ryztofu
+
+import java.util.Scanner;
+
+class Main {
+  public static void main(String[] args) {
+    String test;
+    //String test2 = "Test Block";
+    Scanner ball = new Scanner(System.in);
+    System.out.println("Do you like veggies? y/n");
+    test = ball.nextLine();
+
+    //test = ball.nextChar();
+
+    if (test.equals("y")){
+      System.out.println("Consume Vegetables >:D");  
+    }
+    else {
+      System.out.println("Boring :/");
+    }
+    
+    System.out.println("Please enter test information: ");
+    
+    //test2 = ball.next;
+    
+    //System.out.println("Your text was: " + test2);
+    
+  }
+}
