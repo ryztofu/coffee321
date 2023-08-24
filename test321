@@ -22,7 +22,7 @@ class Main {
     System.out.println("Please enter test information: ");
     
     //test2 = ball.next;
-    
+    //dingus
     //System.out.println("Your text was: " + test2);
     
   }
